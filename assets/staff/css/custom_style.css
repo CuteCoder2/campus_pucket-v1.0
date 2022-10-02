@@ -1,0 +1,29 @@
+#logo{
+  height: 60px;
+  width:auto;
+  background-color:#1e90ff;
+}
+
+#img-viewer,#img-viewer input{
+  height: 400px;
+  width:100%;
+}
+
+#img-viewer{
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
+  border: 5px solid #1e90ff;
+}
+
+#img-uploader{
+opacity: 0;
+
+}
+
+.txt{
+  font-size: 15pt;
+  width:800px;
+  font-family:cursive;
+}
+
